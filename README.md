@@ -17,6 +17,8 @@
 
 ### Donations:
 There might no reason to donate me but if you find my stuff useful and would like to donate:
+
+
 BTC: 12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX
 
 ( Crypto because none of the international online payment services work for my region )
