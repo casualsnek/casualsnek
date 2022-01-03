@@ -20,5 +20,6 @@ There might no reason to donate me but if you find my stuff useful and would lik
 
 
 BTC: 12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX
+E-Sewa: Email me at casualsnek(at)protonmail(dot)com
 
 ( Crypto because none of the international online payment services work for my region )
