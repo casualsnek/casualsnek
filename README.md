@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello this is me casualsnek
 
-<!--
-**casualsnek/casualsnek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+# An enginering student who likes to code sometimes !
+# FOSS and linux enthusaist
 
-Here are some ideas to get you started:
+### Languages:
+- Python
+- JS
+- HTML
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stats:
+![Casual's GitHub stats](https://github-readme-stats.vercel.app/api?username=casualsnek&count_private=true&theme=dracula)
+
+### Donations:
+There might no reason to donate me but if you find my stuff useful and would like to donate:
+BTC: 12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX
+
+( Crypto because none of the international online payment services work for my region )
