@@ -13,6 +13,8 @@
 ### My stats:
 ![Casual's GitHub stats](https://github-readme-stats.vercel.app/api?username=casualsnek&count_private=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casualsnek&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Donations:
 There might no reason to donate me but if you find my stuff useful and would like to donate:
 BTC: 12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX
