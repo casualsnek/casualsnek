@@ -1,8 +1,8 @@
 ### Hello this is me casualsnek
 
 ### About me:
-# An enginering student who likes to code sometimes !
-# FOSS and linux enthusaist
+- An enginering student who likes to code sometimes !
+- FOSS and linux enthusaist
 
 ### Languages:
 - Python
