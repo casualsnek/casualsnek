@@ -26,4 +26,4 @@ BTC: 12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX
 E-Sewa: Email me at casualsnek(at)protonmail(dot)com
 
 
-Through OpenCollaborative for a particular project by slicking sponsor button !
+Through OpenCollaborative for a particular project by clicking sponsor button !
