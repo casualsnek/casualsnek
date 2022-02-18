@@ -1,8 +1,10 @@
-### Hello this is me casualsnek
+### Hello, this is me CasuAlSnek ! 🐍
 
-### About me:
+### I am :
 - An enginering student who likes to code sometimes !
 - FOSS and linux enthusaist
+
+---
 
 ### Languages:
 - Python
@@ -10,20 +12,32 @@
 - HTML
 - C
 
+---
+
+### Reach out to me
+[Reddit](https://reddit.com/u/casualsnek)
+
+[Twitter](https://twitter.com/casualsnek_)
+
+[E-Mail](mailto://casualsnek@pm.me)
+
+[OnlyFans](https://bit.ly/causalFans)
+
+---
+
 ### My stats:
 ![Casual's GitHub stats](https://github-readme-stats.vercel.app/api?username=casualsnek&count_private=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casualsnek&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Donations:
-There might no reason to donate me but if you find my stuff useful and would like to donate:
+### Donations 🪙 :
+If  you like any stuff i made and want to support me :
 
+***OpenCollective: [https://opencollective.com/cassowary](https://opencollective.com/cassowary)***
 
-BTC: 12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX
+***Bitcoin: 12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX***
+
 ( Crypto because none of the international online payment services work for my region )
 
 
-E-Sewa: Email me at casualsnek(at)protonmail(dot)com
-
-
-Through OpenCollaborative for a particular project by clicking sponsor button !
+***E-Sewa: Email me at casualsnek(at)pm(dot)me***
