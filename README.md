@@ -21,8 +21,6 @@
 
 [E-Mail](mailto://casualsnek@pm.me)
 
-[OnlyFans](https://bit.ly/causalFans)
-
 ---
 
 ### My stats:
