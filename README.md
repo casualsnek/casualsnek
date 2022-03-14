@@ -1,5 +1,7 @@
 ### Hello, this is me CasuAlSnek ! 🐍
 
+__Sorry if i am slow to respond to issues and update the projects, i am sick and also have some work from college to complete__
+
 ### I am :
 - An enginering student who likes to code sometimes !
 - FOSS and linux enthusaist
