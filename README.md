@@ -1,16 +1,13 @@
 ### Hello, this is me CasuAlSnek ! 🐍
 
-__Sorry if i am slow to respond to issues and update the projects, i am sick and also have some work from college to complete__
-
 ### I am :
-- An enginering student who likes to code sometimes !
-- FOSS and linux enthusaist
+- BSc.IT student, ( Dropped out of civil engineering because bored )
+- Hmm
 
 ---
 
 ### Languages:
 - Python
-- Php
 - JS
 - HTML
 - C
@@ -32,13 +29,11 @@ __Sorry if i am slow to respond to issues and update the projects, i am sick and
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casualsnek&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Donations 🪙 :
-If  you like any stuff i made and want to support me :
+If  you like any of the stuff i made and want to support me :
 
 ***OpenCollective: [https://opencollective.com/cassowary](https://opencollective.com/cassowary)***
 
 ***Bitcoin: 12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX***
 
-( Crypto because none of the international online payment services work for my region )
 
-
-***E-Sewa: Email me at casualsnek(at)pm(dot)me***
+***Email: casualsnek(at)pm(dot)me***
