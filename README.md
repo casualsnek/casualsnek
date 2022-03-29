@@ -14,12 +14,12 @@
 
 ---
 
-### Reach out to me
-[Reddit](https://reddit.com/u/casualsnek)
+### Reach out to me on
+- [Reddit](https://reddit.com/u/casualsnek)
 
-[Twitter](https://twitter.com/casualsnek_)
+- [Twitter](https://twitter.com/casualsnek_)
 
-[E-Mail](mailto://casualsnek@pm.me)
+- [E-Mail](mailto://casualsnek@pm.me)
 
 ---
 
@@ -27,6 +27,8 @@
 ![Casual's GitHub stats](https://github-readme-stats.vercel.app/api?username=casualsnek&count_private=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casualsnek&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Donations 🪙 :
 If  you like any of the stuff i made and want to support me :
