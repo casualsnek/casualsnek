@@ -2,7 +2,7 @@
 
 ### I am :
 - BSc.IT student
-- FOSS Enthusaist
+- FOSS enthusiast
 
 ---
 
