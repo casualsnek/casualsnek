@@ -1,8 +1,8 @@
 ### Hello, this is me CasuAlSnek ! 🐍
 
 ### I am :
-- BSc.IT student, ( Dropped out of civil engineering because bored )
-- Hmm
+- BSc.IT student
+- FOSS Enthusaist
 
 ---
 
