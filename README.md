@@ -1,3 +1,5 @@
+( No activity on Github because my laptop drank some water and it wont boot )
+
 ### Hello, this is me CasuAlSnek ! 🐍
 
 ### I am :
