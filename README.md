@@ -21,6 +21,8 @@
 
 - [E-Mail](mailto://casualsnek@pm.me)
 
+- [LinkedIn](https://www.linkedin.com/in/casualsnek/) 
+
 ---
 
 ### My stats:
