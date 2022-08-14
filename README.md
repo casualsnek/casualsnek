@@ -1,7 +1,6 @@
-### Hello, this is me CasuAlSnek ! 🐍
+### Hello,
 
 ### I am :
-- BSc.IT student
 - FOSS enthusiast
 
 ---
