@@ -36,7 +36,7 @@ Support My Projects at :
 
 ***OpenCollective: [https://opencollective.com/cassowary](https://opencollective.com/cassowary)***
 
-***Bitcoin: 12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX***
+***Bitcoin:*** ```12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX```
 
 
 ***Email: casualsnek(at)pm(dot)me***
