@@ -24,6 +24,9 @@
 
 ---
 
+### For discussions on projects you can join on discord
+[Discord](https://discord.gg/2t6BNVgZ)
+
 ### My stats:
 ![Casual's GitHub stats](https://github-readme-stats.vercel.app/api?username=casualsnek&count_private=true&theme=dracula)
 
