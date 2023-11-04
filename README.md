@@ -1,7 +1,9 @@
 ### Hello,
 
 ### I am :
-- FOSS enthusiast
+A passionate Free and Open Source Software (FOSS) enthusiast hailing from Nepal. Operating under this pseudonym, I develop handy, free utilities and software, with a particular focus on enhancing the Linux user experience. Additionally, I dabble in the world of photography, capturing random moments from my phone and sharing them on my website.
+
+During my leisure moments, you'll often find me strolling around, relishing a soothing cup of tea, and capturing some photograhs.
 
 ---
 
@@ -10,6 +12,7 @@
 - JS
 - HTML
 - C
+- PHP/Wordpress
 
 ---
 
@@ -35,9 +38,9 @@
 ---
 
 ### Donations 🪙 :
-Support My Projects at :
+Support My Projects or buy me a cup of tea and doughtnuts by tipping any amount of funds at :
 
-***OpenCollective: [https://opencollective.com/cassowary](https://opencollective.com/cassowary)***
+***OpenCollective (Cassowary) : [https://opencollective.com/cassowary](https://opencollective.com/cassowary)***
 
 ***Bitcoin:*** ```12jVCrGxvQeHpJXxq3CoUptijCYvNMHbJX```
 
